@@ -12,13 +12,13 @@ Project Structure
 
 The project is structured into different modules, each serving a specific purpose:
 
-.User Interface: A web interface or command-line interface for interacting with users.
+-> User Interface: A web interface or command-line interface for interacting with users.
 
-.Natural Language Processing (NLP): Processes and interprets user inputs.
+-> Natural Language Processing (NLP): Processes and interprets user inputs.
 
-.Response Generation: Generates relevant responses using predefined data and machine learning models.
+-> Response Generation: Generates relevant responses using predefined data and machine learning models.
 
-.Memory Dump Extraction: Special module for extracting and interpreting memory dumps based on user queries.
+-> Memory Dump Extraction: Special module for extracting and interpreting memory dumps based on user queries.
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -42,27 +42,27 @@ Technologies Used
 
 Frontend:
 
-.HTML5
+-> HTML5
 
-.CSS
+-> CSS
 
-.JavaScript
+-> JavaScript
 
 
 Backend:
 
-.Python
+-> Python
 
-.Flask (Micro web framework)
+-> Flask (Micro web framework)
 
-.TensorFlow/Keras (Machine Learning library)
+-> TensorFlow/Keras (Machine Learning library)
 
-.NLTK (Natural Language Toolkit for NLP tasks)
+-> NLTK (Natural Language Toolkit for NLP tasks)
 
 
 Database: 
 
-.MySQL
+-> MySQL
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -84,10 +84,10 @@ Prerequisites:
 
 Future Enhancements
 
-.Multilingual Support: Adding support for more languages to make the chatbot versatile.
+-> Multilingual Support: Adding support for more languages to make the chatbot versatile.
 
-.Voice Recognition: Integrating voice input for hands-free interaction.
+-> Voice Recognition: Integrating voice input for hands-free interaction.
 
-.Improved Learning Algorithms: Incorporating deep learning techniques for better response generation.
+-> Improved Learning Algorithms: Incorporating deep learning techniques for better response generation.
 
-.Emotion Detection: Enhancing the chatbot to recognize and respond to user emotions.
+-> Emotion Detection: Enhancing the chatbot to recognize and respond to user emotions.
