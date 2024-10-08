@@ -23,6 +23,7 @@ The project is structured into different modules, each serving a specific purpos
 -----------------------------------------------------------------------------------------------------------------------------
 
 System Design
+
 The system consists of the following components:
 
 .User Interface: Collects input from users and displays responses.
@@ -47,6 +48,7 @@ Frontend:
 
 .JavaScript
 
+
 Backend:
 
 .Python
@@ -56,6 +58,7 @@ Backend:
 .TensorFlow/Keras (Machine Learning library)
 
 .NLTK (Natural Language Toolkit for NLP tasks)
+
 
 Database: 
 
